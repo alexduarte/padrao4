@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:32853d87a260ac3b0-90067894%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1351453d93507016244-50346129%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,7 +9,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '32853d87a260ac3b0-90067894',
+  'nocache_hash' => '1351453d93507016244-50346129',
   'variables' => 
   array (
     'module_dir' => 0,
@@ -18,10 +18,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d87a26150501_69033019',
+  'unifunc' => 'content_53d935070be207_15842956',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d87a26150501_69033019')) {function content_53d87a26150501_69033019($_smarty_tpl) {?><!-- TM Categories -->
+<?php if ($_valid && !is_callable('content_53d935070be207_15842956')) {function content_53d935070be207_15842956($_smarty_tpl) {?><!-- TM Categories -->
 <script type="text/javascript" src="/padrao4/modules/tmcategories/superfish.js"></script>
 
 <script type="text/javascript">

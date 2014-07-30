@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:2139453d87a27679253-18751649%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:691653d935084dd4f5-41209735%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,7 +9,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2139453d87a27679253-18751649',
+  'nocache_hash' => '691653d935084dd4f5-41209735',
   'variables' => 
   array (
     'products' => 0,
@@ -23,42 +23,42 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d87a27a07651_62699482',
+  'unifunc' => 'content_53d93508848662_45696007',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d87a27a07651_62699482')) {function content_53d87a27a07651_62699482($_smarty_tpl) {?><!-- MODULE Home Featured Products -->
+<?php if ($_valid && !is_callable('content_53d93508848662_45696007')) {function content_53d93508848662_45696007($_smarty_tpl) {?><!-- MODULE Home Featured Products -->
 <div id="featured_products">
 	<h4>Produtos em destaque</h4>
 		<div class="block_content">
 		<ul>
 						<li class="ajax_block_product">
-				<a class="product_image" href="http://localhost:8080/padrao4/acessorios-decorativos/8-tapete-shaggy-lotus-marfim-cm.html" title="TAPETE SHAGGY LOTUS MARFIM 150X200 CM"><img src="http://localhost:8080/padrao4/24-home/tapete-shaggy-lotus-marfim-cm.jpg" alt="TAPETE SHAGGY LOTUS MARFIM 150X200 CM" /></a>
+				<a class="product_image" href="http://localhost:8080/padrao4/bicicletas/11-BICICLETA-ARO-700-EASY-RIDER-CALOI-FEMININA.html" title="BICICLETA ARO 700 EASY RIDER CALOI FEMININA"><img src="http://localhost:8080/padrao4/27-home/BICICLETA-ARO-700-EASY-RIDER-CALOI-FEMININA.jpg" alt="BICICLETA ARO 700 EASY RIDER CALOI FEMININA" /></a>
 				<div>
-					<h5><a class="product_link" href="http://localhost:8080/padrao4/acessorios-decorativos/8-tapete-shaggy-lotus-marfim-cm.html" title="TAPETE SHAGGY LOTUS MARFIM...">TAPETE SHAGGY LOTUS...</a></h5>
+					<h5><a class="product_link" href="http://localhost:8080/padrao4/bicicletas/11-BICICLETA-ARO-700-EASY-RIDER-CALOI-FEMININA.html" title="BICICLETA ARO 700 EASY RIDER...">BICICLETA ARO 700 EASY...</a></h5>
 					<p class="product_desc"></p>
-					<span class="price">R$ 279,00</span>
+					<span class="price">R$ 1.299,00</span>
 					
-										<a class="button" href="http://localhost:8080/padrao4/acessorios-decorativos/8-tapete-shaggy-lotus-marfim-cm.html" title="Ver">Ver</a>
+										<a class="button" href="http://localhost:8080/padrao4/bicicletas/11-BICICLETA-ARO-700-EASY-RIDER-CALOI-FEMININA.html" title="Ver">Ver</a>
 				</div>
 			</li>
 						<li class="ajax_block_product">
-				<a class="product_image" href="http://localhost:8080/padrao4/home/9-balcao-mesa-cozinha-nobilis-branco-moveis.html" title="BALCÃO MESA COZINHA 27040 NOBILIS BRANCO MOVEIS PA"><img src="http://localhost:8080/padrao4/25-home/balcao-mesa-cozinha-nobilis-branco-moveis.jpg" alt="BALCÃO MESA COZINHA 27040 NOBILIS BRANCO MOVEIS PA" /></a>
+				<a class="product_image" href="http://localhost:8080/padrao4/bicicletas/12-BICICLETA-ARO-26-300-CALOI-FEMININA.html" title="BICICLETA ARO 26 300 CALOI FEMININA"><img src="http://localhost:8080/padrao4/28-home/BICICLETA-ARO-26-300-CALOI-FEMININA.jpg" alt="BICICLETA ARO 26 300 CALOI FEMININA" /></a>
 				<div>
-					<h5><a class="product_link" href="http://localhost:8080/padrao4/home/9-balcao-mesa-cozinha-nobilis-branco-moveis.html" title="BALC&Atilde;O MESA COZINHA 27040...">BALC&Atilde;O MESA COZINHA...</a></h5>
+					<h5><a class="product_link" href="http://localhost:8080/padrao4/bicicletas/12-BICICLETA-ARO-26-300-CALOI-FEMININA.html" title="BICICLETA ARO 26 300 CALOI...">BICICLETA ARO 26 300...</a></h5>
 					<p class="product_desc"></p>
-					<span class="price">R$ 289,00</span>
+					<span class="price">R$ 899,00</span>
 					
-										<a class="button" href="http://localhost:8080/padrao4/home/9-balcao-mesa-cozinha-nobilis-branco-moveis.html" title="Ver">Ver</a>
+										<a class="button" href="http://localhost:8080/padrao4/bicicletas/12-BICICLETA-ARO-26-300-CALOI-FEMININA.html" title="Ver">Ver</a>
 				</div>
 			</li>
 						<li class="ajax_block_product">
-				<a class="product_image" href="http://localhost:8080/padrao4/atelies/10-poltrona-coktail-adrian-cinza.html" title="POLTRONA COKTAIL ADRIAN CINZA"><img src="http://localhost:8080/padrao4/26-home/poltrona-coktail-adrian-cinza.jpg" alt="POLTRONA COKTAIL ADRIAN CINZA" /></a>
+				<a class="product_image" href="http://localhost:8080/padrao4/acessorios/13-COLETE-REFLETIVO-FLUORESCENTE-BTWIN-7.html" title="COLETE REFLETIVO FLUORESCENTE BTWIN 7"><img src="http://localhost:8080/padrao4/29-home/COLETE-REFLETIVO-FLUORESCENTE-BTWIN-7.jpg" alt="COLETE REFLETIVO FLUORESCENTE BTWIN 7" /></a>
 				<div>
-					<h5><a class="product_link" href="http://localhost:8080/padrao4/atelies/10-poltrona-coktail-adrian-cinza.html" title="POLTRONA COKTAIL ADRIAN CINZA">POLTRONA COKTAIL...</a></h5>
+					<h5><a class="product_link" href="http://localhost:8080/padrao4/acessorios/13-COLETE-REFLETIVO-FLUORESCENTE-BTWIN-7.html" title="COLETE REFLETIVO FLUORESCENTE...">COLETE REFLETIVO...</a></h5>
 					<p class="product_desc"></p>
-					<span class="price">R$ 209,00</span>
+					<span class="price">R$ 139,00</span>
 					
-										<a class="button" href="http://localhost:8080/padrao4/atelies/10-poltrona-coktail-adrian-cinza.html" title="Ver">Ver</a>
+										<a class="button" href="http://localhost:8080/padrao4/acessorios/13-COLETE-REFLETIVO-FLUORESCENTE-BTWIN-7.html" title="Ver">Ver</a>
 				</div>
 			</li>
 					</ul>

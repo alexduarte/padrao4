@@ -2,7 +2,7 @@
 <module>
 	<name>blockcart</name>
 	<displayName><![CDATA[Bloco do carrinho]]></displayName>
-	<version><![CDATA[1.5.1]]></version>
+	<version><![CDATA[1.2]]></version>
 	<description><![CDATA[Adiciona um bloco com carrinho de compras do cliente.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

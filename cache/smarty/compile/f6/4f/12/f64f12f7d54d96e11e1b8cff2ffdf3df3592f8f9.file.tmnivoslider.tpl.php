@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 02:52:55
+<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 16:10:16
          compiled from "C:\wamp\www\padrao4\modules\tmnivoslider\tmnivoslider.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2712453d87a2731daf6-78587811%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:3151153d9350820e7d0-34071319%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2712453d87a2731daf6-78587811',
+  'nocache_hash' => '3151153d9350820e7d0-34071319',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d87a27442af1_02508615',
+  'unifunc' => 'content_53d93508347053_73118837',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d87a27442af1_02508615')) {function content_53d87a27442af1_02508615($_smarty_tpl) {?><script type="text/javascript" src="<?php echo $_smarty_tpl->tpl_vars['this_path']->value;?>
+<?php if ($_valid && !is_callable('content_53d93508347053_73118837')) {function content_53d93508347053_73118837($_smarty_tpl) {?><script type="text/javascript" src="<?php echo $_smarty_tpl->tpl_vars['this_path']->value;?>
 js/nivo.slider.js"></script>
 <div id="tmnivoslider"> 	
     <div id="slider">

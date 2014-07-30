@@ -29,5 +29,5 @@
 			<li><a href="{$link->getPageLink('supplier.php')}">{l s='Suppliers' mod='tmfooterlinks'}</a></li>
 		</ul>
 	</div>
-	<p>&copy; {$smarty.now|date_format:"%Y"} {l s='Powered by' mod='tmfooterlinks'} <a href="http://www.prestashop.com">PrestaShop</a>&trade;. All rights reserved</p>
+	<p>&copy; {$smarty.now|date_format:"%Y"} {l s='Powered by' mod='tmfooterlinks'} <a href="http://www.atsinformatica.com.br">ATS Informática</a>&trade;. Todos direitos reservados</p>
 </div>

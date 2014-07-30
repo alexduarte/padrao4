@@ -1,1 +1,0 @@
-<h3 href="#idTab5" class="idTabHrefShort">{l s='Comments' mod='productcomments'}<span class="icon-toggle"></span></h3>

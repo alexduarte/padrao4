@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:594653d87a25858e26-93549384%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2724453d93506b12889-88868807%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,7 +9,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '594653d87a25858e26-93549384',
+  'nocache_hash' => '2724453d93506b12889-88868807',
   'variables' => 
   array (
     'link' => 0,
@@ -20,10 +20,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d87a25989990_27398266',
+  'unifunc' => 'content_53d93506c3b709_81772385',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d87a25989990_27398266')) {function content_53d87a25989990_27398266($_smarty_tpl) {?><!-- Block search module TOP -->
+<?php if ($_valid && !is_callable('content_53d93506c3b709_81772385')) {function content_53d93506c3b709_81772385($_smarty_tpl) {?><!-- Block search module TOP -->
 <div id="search_block_top">
 	<form method="get" action="http://localhost:8080/padrao4/search" id="searchbox">
 		<label>Busca</label>

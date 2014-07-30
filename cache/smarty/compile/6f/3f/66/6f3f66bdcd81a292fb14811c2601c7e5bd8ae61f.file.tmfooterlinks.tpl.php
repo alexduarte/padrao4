@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 02:52:55
+<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 16:10:16
          compiled from "C:\wamp\www\padrao4\modules\tmfooterlinks\tmfooterlinks.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1673953d87a27a2a8e9-53933857%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2686153d9350886f773-22900181%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6f3f66bdcd81a292fb14811c2601c7e5bd8ae61f' => 
     array (
       0 => 'C:\\wamp\\www\\padrao4\\modules\\tmfooterlinks\\tmfooterlinks.tpl',
-      1 => 1406695832,
+      1 => 1406741998,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1673953d87a27a2a8e9-53933857',
+  'nocache_hash' => '2686153d9350886f773-22900181',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d87a27c2e3b5_24153466',
+  'unifunc' => 'content_53d93508ad0e67_84838833',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d87a27c2e3b5_24153466')) {function content_53d87a27c2e3b5_24153466($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include 'C:\\wamp\\www\\padrao4\\tools\\smarty\\plugins\\modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_53d93508ad0e67_84838833')) {function content_53d93508ad0e67_84838833($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include 'C:\\wamp\\www\\padrao4\\tools\\smarty\\plugins\\modifier.date_format.php';
 ?><div id="tmfooterlinks">
 <div>
 		<h4><?php echo smartyTranslate(array('s'=>'Information','mod'=>'tmfooterlinks'),$_smarty_tpl);?>
@@ -90,5 +90,5 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</div>
 	<p>&copy; <?php echo smarty_modifier_date_format(time(),"%Y");?>
  <?php echo smartyTranslate(array('s'=>'Powered by','mod'=>'tmfooterlinks'),$_smarty_tpl);?>
- <a href="http://www.prestashop.com">PrestaShop</a>&trade;. All rights reserved</p>
+ <a href="http://www.atsinformatica.com.br">ATS Informática</a>&trade;. Todos direitos reservados</p>
 </div><?php }} ?>
