@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>youtube</name>
+            <displayName><![CDATA[Product videos]]></displayName>
+            <version><![CDATA[2.0]]></version>
+            <description><![CDATA[Youtube videos in product page]]></description>
+            <author><![CDATA[]]></author>
+            <tab><![CDATA[Invertus]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

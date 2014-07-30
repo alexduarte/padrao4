@@ -1,0 +1,61 @@
+/* ————— homefeatured.tpl ————— */
+.addhomefeatured {}
+.addhomefeatured h4 {font-size:17px; line-height:1.2em;color:#1c1c1c;font-weight:bold; text-transform:uppercase; padding:26px 0px 8px 0px; margin:0 0 30px 0; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; border-bottom:3px solid #000000;}
+.addhomefeatured ul { list-style:none;}
+.addhomefeatured ul li { text-align:center; margin-bottom:30px; float:left;position: relative; }
+.addhomefeatured ul .featured_li{text-align:center; padding:30px;}
+.addhomefeatured ul li a{ position:relative;}
+.addhomefeatured ul li img.next-img{ z-index:9; width:270px; position:absolute; top:0; left:0;}
+.addhomefeatured ul li img{display:block; overflow:hidden;}
+.addhomefeatured ul li img.main-img{ display:block;}
+.addhomefeatured ul li .product_image{ width:100%;display:block; padding-bottom:0px; overflow:hidden; position:relative;}
+.addhomefeatured ul li .featured_li{border:1px solid #cccccc}
+.addhomefeatured ul li div { text-align:left;}
+.addhomefeatured ul li h5 {padding:15px 0 0 0;}
+.addhomefeatured ul li p.product_desc {padding:3px 0 0 0; display:none;}
+.addhomefeatured ul li span.price {display: inline-block;padding:0px 0 0px 0; font-size:17px;}
+.addhomefeatured .price-drop-feacherd{ text-decoration:line-through; margin-left:7px;}
+.addhomefeatured ul li .button,.addhomefeatured ul li .exclusive{ display:none;}
+.addhomefeatured ul li a.exclusive{ border:1px solid #464646; border-right:1px solid #262626; border-bottom:1px solid #262626; color:#fff; margin-right:2px; display:none;
+background: rgb(70,70,70); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(70,70,70,1) 0%, rgba(38,38,38,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(70,70,70,1)), color-stop(100%,rgba(38,38,38,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(70,70,70,1) 0%,rgba(38,38,38,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(70,70,70,1) 0%,rgba(38,38,38,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(70,70,70,1) 0%,rgba(38,38,38,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(70,70,70,1) 0%,rgba(38,38,38,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#464646', endColorstr='#262626',GradientType=0 ); /* IE6-9 */
+}
+.addhomefeatured ul li a.exclusive  span{background:url(../img/btn-marker.png) left  top  no-repeat; line-height:18px;padding:2px 0 2px 20px;}
+.addhomefeatured ul li a.exclusive:hover{ border:1px solid #FF553D; border-right:1px solid #FF553D; border-bottom:1px solid #FF553D;
+background:#FF553D
+}
+@media only screen and (min-width: 768px) and (max-width: 979px) {	
+.addhomefeatured ul li span.exclusive{ padding-left:30px; padding-right:30px;}
+.addhomefeatured ul li .exclusive{ margin-bottom:10px;}
+.addhomefeatured ul .featured_li{ padding:15px;}
+.addhomefeatured h4{ padding-top:6px; margin-bottom:20px;}
+.addhomefeatured ul li{ margin-bottom:20px;}
+}
+@media only screen and (max-width: 767px) {
+.addhomefeatured h4 {font-size: 17px;padding:10px 11px 10px 0px;margin-bottom:20px}
+.addhomefeatured ul .featured_li{ padding:0;}
+.addhomefeatured ul li div {text-align: left;}
+.addhomefeatured ul li {float: left; margin:0 0 20px 0;border:1px solid #cccccc; padding:16px 20px 20px 20px;}
+.addhomefeatured ul li:first-child{}
+.addhomefeatured ul li:first-child .featured_li {padding-top:0;}
+.addhomefeatured ul li h5 {padding:0px 0 7px 0;}
+.addhomefeatured ul li .product_image.feat-mobile {display: inline-block;float:left; margin-right:10px; height:181px;padding-bottom: 0;text-align: center;width:118px;}
+.addhomefeatured ul li .product_image{ width:118px; float:left; margin-right:20px; margin-bottom:0px; margin-top:4px;}
+.addhomefeatured ul li span.price{ padding:12px 0 4px 0; font-size:24px; display:block;}
+.addhomefeatured ul li img{ width:118px; height:181px;}
+.addhomefeatured ul li.num-1 .featured_li, .addhomefeatured ul li.num-2 .featured_li, .addhomefeatured ul li.num-3 .featured_li, .addhomefeatured ul li.num-4 .featured_li{ border:none;}
+.addhomefeatured ul li .button{ display: inline-block;margin:20px 0 0 0;}
+.addhomefeatured ul li .exclusive,.addhomefeatured ul li a.exclusive{ display: inline-block; margin:20px 16px 0 0;}
+.addhomefeatured ul li p.product_desc{ display:block; margin:0; }
+.addhomefeatured .price-drop-feacherd{margin-left:0px;}
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.addhomefeatured ul li .exclusive{margin-right:8px;}
+.addhomefeatured ul li span.price{ display:inline-block; margin-right:10px;}
+}

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<items>
+  <item>
+    <inst>item_inst_0</inst>
+    <hook>home</hook>
+    <url><![CDATA[index.php?id_product=3&controller=product&id_lang=1#]]></url>
+    <html>
+        <lang_1><![CDATA[<h4>Coats and</h4>
+<h3>Jackets</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_1>
+        <lang_4><![CDATA[<h4>Coats and</h4>
+<h3>Jackets</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_4>
+        <lang_5><![CDATA[<h4>Coats and</h4>
+<h3>Jackets</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_5>
+    </html>
+
+    <imgWidth>370</imgWidth>
+    <imgHeight>460</imgHeight>
+    <img>aef92a50970cb899a8fbe78bc7036616.jpg</img>
+ </item>
+  <item>
+    <inst>item_inst_1</inst>
+    <hook>home</hook>
+    <url><![CDATA[index.php?id_product=5&controller=product&id_lang=1#]]></url>
+    <html>
+        <lang_1><![CDATA[<h5>lingerie</h5>
+<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_1>
+        <lang_4><![CDATA[<h5>lingerie</h5>
+<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_4>
+        <lang_5><![CDATA[<h5>lingerie</h5>
+<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_5>
+    </html>
+
+    <imgWidth>370</imgWidth>
+    <imgHeight>273</imgHeight>
+    <img>dd5c41677d2aa268e1a8173d70d74f79.png</img>
+ </item>
+</items>

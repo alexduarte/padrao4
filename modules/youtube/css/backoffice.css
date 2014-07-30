@@ -1,0 +1,153 @@
+.fleft
+{
+    float: left;
+}
+
+.fright
+{
+    float: right;
+}
+
+#youtube_form label
+{
+    text-align:left;
+    width:275px;
+}
+
+#youtube_form label div
+{
+    padding-top:8px;
+    float:left;
+}
+
+#youtube_form label img
+{
+    margin-right:10px;
+    float:left;
+}
+
+#youtube_form .margin-form
+{
+    padding-left:278px;
+    margin-top:8px;
+}
+
+#youtube_form .product_selection:hover, #youtube_form .product_selection.selected
+{
+    background-color: #EFEFEF;
+    cursor: pointer;
+}
+
+#youtube_form .selected_product div
+{
+    line-height: 45px;
+    margin-right: 15px;
+}
+
+#videos_list .video_edit,
+	#videos_list .video_status,
+		#videos_list .video_delete
+{
+	cursor:pointer;
+}
+
+#selected_product
+{
+    background: url("../img/texture.png") repeat scroll 0 0 #FFDB6C;
+}
+
+#youtube_form fieldset
+{
+    margin-bottom: 25px;
+}
+
+#youtube_form .table td
+{
+    border-bottom: none;    
+}
+
+.divider 
+{
+    background: url("../img/divider.png") repeat-x scroll 0 0 transparent;
+    height: 2px;
+    margin: 8px 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+.button_related
+{
+    background: url("../img/greenButton.jpg") repeat-x scroll 0 0 #71A953;
+    border-color: #DEEAD1 #BBD7A3 #C0D6B4;
+    border-radius: 5px 5px 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    height:30px;
+    color: #FFFFFF;
+    font: 400 13px/22px "Open Sans",Arial,Helvetica,sans-serif;
+    margin-left: 0;
+    padding: 0 12px;
+    text-transform: lowercase;
+	cursor: pointer;
+	vertical-align:bottom;
+}
+
+#success_youtube
+{
+    display:none;
+    position:fixed;
+    right:0;
+    top:0;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: 1px solid #AAD19B;
+    background-color: #DFF0D8;
+    color: #468847;
+    margin-top: 18px;
+    margin-right: 18px;
+    padding: 8px 35px 8px 14px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    font-weight:bold;
+}
+
+#success_youtube.tags_error
+{
+    background-color: #F2DEDE;
+    border: 1px solid #EED3D7;
+    color: #B94A48;
+}
+
+#youtube-module-loader
+{
+	display:none;
+	background: url("../img/ajax-loader.gif") no-repeat scroll center center black;
+    opacity: 0.4;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.table-loader
+{
+    background: url("../img/ajax-loader.gif") no-repeat scroll center center silver;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    opacity: 0.4;
+}
+
+input.defaultTextActive
+{
+	font-style: italic;
+	color: #737373;
+}
+
+.delete_on
+{
+	cursor:pointer;
+}

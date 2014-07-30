@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<items>
+  <item>
+    <inst>item_inst_0</inst>
+    <hook>home</hook>
+    <url><![CDATA[index.php?id_product=4&controller=product&id_lang=1#]]></url>
+    <html>
+        <lang_1><![CDATA[<h2>Dresses</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_1>
+        <lang_4><![CDATA[<h2>Dresses</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_4>
+        <lang_5><![CDATA[<h2>Dresses</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_5>
+    </html>
+
+    <imgWidth>370</imgWidth>
+    <imgHeight>763</imgHeight>
+    <img>0a392564c583aaef6bc04cf9a0221086.jpg</img>
+ </item>
+  <item>
+    <inst>item_inst_1</inst>
+    <hook>home</hook>
+    <url><![CDATA[index.php?id_product=6&controller=product&id_lang=1#]]></url>
+    <html>
+        <lang_1><![CDATA[<h2>Swim</h2>
+<h3>2013</h3>
+<span>Shop now!</span>
+]]></lang_1>
+        <lang_4><![CDATA[<h2>Swim</h2>
+<h3>2013</h3>
+<span>Shop now!</span>
+
+]]></lang_4>
+        <lang_5><![CDATA[<h2>Swim</h2>
+<h3>2013</h3>
+<span>Shop now!</span>
+]]></lang_5>
+    </html>
+
+    <imgWidth>370</imgWidth>
+    <imgHeight>273</imgHeight>
+    <img>cf3e53d62ea436078b771a9bf739221f.png</img>
+ </item>
+  <item>
+    <inst>item_inst_2</inst>
+    <hook>home</hook>
+    <url><![CDATA[index.php?id_product=7&controller=product&id_lang=1#]]></url>
+    <html>
+        <lang_1><![CDATA[<h2>NEW ARRIVALS</h2>
+<p>Lorem ipsum dolor sit amet, consectetur<br/> adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_1>
+        <lang_4><![CDATA[<h2>NEW ARRIVALS</h2>
+<p>Lorem ipsum dolor sit amet, consectetur<br/> adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_4>
+        <lang_5><![CDATA[<h2>NEW ARRIVALS</h2>
+<p>Lorem ipsum dolor sit amet, consectetur<br/> adipisicing elit, sed do eiusmod</p>
+<span>Shop now!</span>]]></lang_5>
+    </html>
+
+    <imgWidth>370</imgWidth>
+    <imgHeight>460</imgHeight>
+    <img>a81428ee10920d062be406b505a1c7d2.jpg</img>
+ </item>
+</items>
